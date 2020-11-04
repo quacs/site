@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfeb41a59103532a77941728b07213a9",
-    "url": "/spring2021/016ea0911f59782268c6.module.wasm"
+    "revision": "7c55b5bc42b374586a467b126eefb4b9",
+    "url": "/spring2021/3424f91fbb5eb0e62ce9.worker.js"
   },
   {
-    "revision": "e6413d463d826815de2893c61d02a5f3",
-    "url": "/spring2021/0cf487eaaa6bfd84cefc.worker.js"
+    "revision": "1a74907207ecc1a8dcff90f2277b4b7d",
+    "url": "/spring2021/ac07c6a5c40a1e432823.module.wasm"
   },
   {
-    "revision": "beaa1c2ed93e86ff26b6349e574fc0ab",
-    "url": "/spring2021/chunk-cfd8699e.0cf487eaaa6bfd84cefc.worker.js"
+    "revision": "4d31e0ca8784cb091b189806999bc8f2",
+    "url": "/spring2021/chunk-cfd8699e.3424f91fbb5eb0e62ce9.worker.js"
   },
   {
-    "revision": "aad240ca7cc726785577",
+    "revision": "e06cf16005786a5648fb",
     "url": "/spring2021/css/app.12e3c4cd.css"
   },
   {
@@ -40,20 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2021/img/quacs_white.cc0bc9f8.svg"
   },
   {
-    "revision": "1590f0e4fd0b6271a7876f52a4b02b15",
+    "revision": "772efb92aa398a0a68230b4f2584821a",
     "url": "/spring2021/index.html"
   },
   {
-    "revision": "aad240ca7cc726785577",
-    "url": "/spring2021/js/app.5a590c63.js"
+    "revision": "e06cf16005786a5648fb",
+    "url": "/spring2021/js/app.e53611e1.js"
   },
   {
-    "revision": "96039aa4587b9b840422",
-    "url": "/spring2021/js/chunk-2d0a2d4b.7bbed852.js"
+    "revision": "f8e9b55d9676feee2341",
+    "url": "/spring2021/js/chunk-2d0a2d4b.25858647.js"
   },
   {
-    "revision": "bd692a71ebbe98ab85d2",
-    "url": "/spring2021/js/chunk-2d0ced70.1d9e3d04.js"
+    "revision": "6b5d3e8a69a8db52ba7a",
+    "url": "/spring2021/js/chunk-2d0ced70.d4e688b6.js"
   },
   {
     "revision": "6196dd3ec7aa6d072b7e",
