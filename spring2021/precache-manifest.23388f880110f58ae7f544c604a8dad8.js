@@ -1,18 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29410f08520978886e82ec0560f36fa1",
-    "url": "/spring2021/06596626241ffabbb283.worker.js"
+    "revision": "8c4ab2d7b5f00414ffaba27b658de4bc",
+    "url": "/spring2021/329be5547da5dc9ee7c4.worker.js"
   },
   {
-    "revision": "a84ce6eae7707e60c50fe5564bca462d",
-    "url": "/spring2021/8f742fbc9fd0c093b5c5.module.wasm"
+    "revision": "b5f0d2c0be822d8fb7148b0c1d752581",
+    "url": "/spring2021/chunk-cfd8699e.329be5547da5dc9ee7c4.worker.js"
   },
   {
-    "revision": "c9c8bbe72165b09d6055a856f701ef3c",
-    "url": "/spring2021/chunk-cfd8699e.06596626241ffabbb283.worker.js"
-  },
-  {
-    "revision": "eb6468143499a02ff253",
+    "revision": "d9ecd23c1c375202f3c2",
     "url": "/spring2021/css/app.12e3c4cd.css"
   },
   {
@@ -32,6 +28,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2021/docker-image.jpg"
   },
   {
+    "revision": "65f21ff8ce19512c205d9fe1ae249742",
+    "url": "/spring2021/f263a3c3cc9421b58dea.module.wasm"
+  },
+  {
     "revision": "c707d6e3c7a7dfee3bee4e467d500c5b",
     "url": "/spring2021/img/quacs_thanksgiving.c707d6e3.svg"
   },
@@ -40,20 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2021/img/quacs_white.cc0bc9f8.svg"
   },
   {
-    "revision": "84f5a2fb8bac4de090a016fbd8a6472a",
+    "revision": "48815cbb51e2f5d2fd86ea5afe664b7e",
     "url": "/spring2021/index.html"
   },
   {
-    "revision": "eb6468143499a02ff253",
-    "url": "/spring2021/js/app.a83fb46f.js"
+    "revision": "d9ecd23c1c375202f3c2",
+    "url": "/spring2021/js/app.70d99e2f.js"
   },
   {
-    "revision": "235ea0955e52609ec4bb",
-    "url": "/spring2021/js/chunk-2d0a2d4b.7f3706bb.js"
+    "revision": "52a644a584d2cc4cf0d8",
+    "url": "/spring2021/js/chunk-2d0a2d4b.00b3deb4.js"
   },
   {
-    "revision": "0653bb078829c2be45c6",
-    "url": "/spring2021/js/chunk-2d0ced70.7e7da43b.js"
+    "revision": "b6b6f9ecdcfd478ad2a7",
+    "url": "/spring2021/js/chunk-2d0ced70.ffade3c3.js"
   },
   {
     "revision": "87bac3f1999b07d882d9",
