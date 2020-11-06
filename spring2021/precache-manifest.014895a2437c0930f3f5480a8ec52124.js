@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2021/chunk-cfd8699e.0a0e2621052bad03c7c5.worker.js"
   },
   {
-    "revision": "ff30fb3e48032c916214",
+    "revision": "6de83c87f9b08539d985",
     "url": "/spring2021/css/app.12e3c4cd.css"
   },
   {
@@ -40,20 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2021/img/quacs_white.cc0bc9f8.svg"
   },
   {
-    "revision": "48ed2cf87c327d5b055406d2874b6fd7",
+    "revision": "8a4fb7a414bd2fcf2b0cf629902507a8",
     "url": "/spring2021/index.html"
   },
   {
-    "revision": "ff30fb3e48032c916214",
-    "url": "/spring2021/js/app.0e17710d.js"
+    "revision": "6de83c87f9b08539d985",
+    "url": "/spring2021/js/app.b1e6cdc3.js"
   },
   {
     "revision": "beee29770505257730dc",
     "url": "/spring2021/js/chunk-2d0a2d4b.f59220bb.js"
   },
   {
-    "revision": "6aecf5e22d33d4f394a1",
-    "url": "/spring2021/js/chunk-2d0ced70.a8a1c025.js"
+    "revision": "d1617960dc9bc554da06",
+    "url": "/spring2021/js/chunk-2d0ced70.2f97acaf.js"
   },
   {
     "revision": "87bac3f1999b07d882d9",
