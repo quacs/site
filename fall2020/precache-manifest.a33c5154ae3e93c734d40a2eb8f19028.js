@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fall2020/chunk-cfd8699e.8cc3ecb1a03f208a5ff7.worker.js"
   },
   {
-    "revision": "5ee5da96e1febf0ef6f4",
+    "revision": "98ef223ba0ef4280dcef",
     "url": "/fall2020/css/app.758bb6ed.css"
   },
   {
@@ -40,20 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fall2020/img/quacs_white.cc0bc9f8.svg"
   },
   {
-    "revision": "0a1ddce95ae7c17b854fea990a9c5e60",
+    "revision": "67788d809b44b39e60dfc65977a48373",
     "url": "/fall2020/index.html"
   },
   {
-    "revision": "5ee5da96e1febf0ef6f4",
-    "url": "/fall2020/js/app.911d32ec.js"
+    "revision": "98ef223ba0ef4280dcef",
+    "url": "/fall2020/js/app.2955a8af.js"
   },
   {
     "revision": "0ad42dac734e3cf41667",
     "url": "/fall2020/js/chunk-1929a966.e6646732.js"
   },
   {
-    "revision": "0f6dc49c586eb2f27090",
-    "url": "/fall2020/js/chunk-2d0cc643.953ee6cb.js"
+    "revision": "16e081f81f9450f49e83",
+    "url": "/fall2020/js/chunk-2d0cc643.cf67b7a6.js"
   },
   {
     "revision": "b30d1af5de2c8dd4856d",
