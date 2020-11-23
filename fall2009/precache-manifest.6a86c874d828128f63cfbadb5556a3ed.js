@@ -1,0 +1,90 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "7c5123e50638dd983605677c968ece0b",
+    "url": "/fall2009/03b2e8804472c5d6e3d8.worker.js"
+  },
+  {
+    "revision": "8e2f9840cfe44a009297fc5fe3dc02f3",
+    "url": "/fall2009/06d513e878643f3e6e76.module.wasm"
+  },
+  {
+    "revision": "d1a6042d8749a3c65b5b3b26923ac91a",
+    "url": "/fall2009/chunk-cfd8699e.03b2e8804472c5d6e3d8.worker.js"
+  },
+  {
+    "revision": "6bbcca76183bae05ce22",
+    "url": "/fall2009/css/app.758bb6ed.css"
+  },
+  {
+    "revision": "593d18b68805cca83e4a",
+    "url": "/fall2009/css/chunk-1929a966.c2dcdd25.css"
+  },
+  {
+    "revision": "f92985d6fe9718cadb3b",
+    "url": "/fall2009/css/chunk-9d6fb3ca.27e1866e.css"
+  },
+  {
+    "revision": "1e3a845a6d74d7380024",
+    "url": "/fall2009/css/chunk-vendors.bb3d2751.css"
+  },
+  {
+    "revision": "767a48f0ff5e53735106b149ce26a801",
+    "url": "/fall2009/docker-image.jpg"
+  },
+  {
+    "revision": "c707d6e3c7a7dfee3bee4e467d500c5b",
+    "url": "/fall2009/img/quacs_thanksgiving.c707d6e3.svg"
+  },
+  {
+    "revision": "cc0bc9f846d116e97d03bf4eaea5e39d",
+    "url": "/fall2009/img/quacs_white.cc0bc9f8.svg"
+  },
+  {
+    "revision": "89ada28a1b7a040d68752b0e16f4b586",
+    "url": "/fall2009/index.html"
+  },
+  {
+    "revision": "6bbcca76183bae05ce22",
+    "url": "/fall2009/js/app.0694239f.js"
+  },
+  {
+    "revision": "593d18b68805cca83e4a",
+    "url": "/fall2009/js/chunk-1929a966.292468f7.js"
+  },
+  {
+    "revision": "0131af500ece1832afb6",
+    "url": "/fall2009/js/chunk-2d0c7e97.6a44d242.js"
+  },
+  {
+    "revision": "5231abb4a20753afa23f",
+    "url": "/fall2009/js/chunk-2d0da574.a9070853.js"
+  },
+  {
+    "revision": "05f0d65e97f9401cb622",
+    "url": "/fall2009/js/chunk-2d0db20a.0010955a.js"
+  },
+  {
+    "revision": "817af6182e47ecc6920b",
+    "url": "/fall2009/js/chunk-2d0e53e1.2b94bde9.js"
+  },
+  {
+    "revision": "f92985d6fe9718cadb3b",
+    "url": "/fall2009/js/chunk-9d6fb3ca.9db19a51.js"
+  },
+  {
+    "revision": "1e3a845a6d74d7380024",
+    "url": "/fall2009/js/chunk-vendors.cf3a2e3d.js"
+  },
+  {
+    "revision": "93b702478aef9bcd91184e1b555d7666",
+    "url": "/fall2009/manifest.json"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/fall2009/robots.txt"
+  },
+  {
+    "revision": "646d1a2df7c9d0acacc637ba8c5b96d6",
+    "url": "/fall2009/umami.js"
+  }
+]);
