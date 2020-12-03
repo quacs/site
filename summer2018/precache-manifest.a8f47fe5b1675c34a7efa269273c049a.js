@@ -1,0 +1,90 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "963f547501b771bd9b7574abf25c4a1e",
+    "url": "/summer2018/2b784782e399650c166e.worker.js"
+  },
+  {
+    "revision": "aab1569aaa97cb80049f0caf760aa677",
+    "url": "/summer2018/7a1778a95c95e01999f4.module.wasm"
+  },
+  {
+    "revision": "734d7e72c9247b42585462b7c20d213f",
+    "url": "/summer2018/chunk-cfd8699e.2b784782e399650c166e.worker.js"
+  },
+  {
+    "revision": "4953bb176da27e23da80",
+    "url": "/summer2018/css/app.758bb6ed.css"
+  },
+  {
+    "revision": "4b5cd938cb6f3593e6a9",
+    "url": "/summer2018/css/chunk-71a680ce.c2dcdd25.css"
+  },
+  {
+    "revision": "930c18fd25d95bfa5a36",
+    "url": "/summer2018/css/chunk-9d6fb3ca.27e1866e.css"
+  },
+  {
+    "revision": "f728b8d25a2548801a0f",
+    "url": "/summer2018/css/chunk-vendors.bb3d2751.css"
+  },
+  {
+    "revision": "767a48f0ff5e53735106b149ce26a801",
+    "url": "/summer2018/docker-image.jpg"
+  },
+  {
+    "revision": "69698ca89ce8d260f4ac0ae41add8260",
+    "url": "/summer2018/img/quacs_logo_christmas.69698ca8.svg"
+  },
+  {
+    "revision": "cc0bc9f846d116e97d03bf4eaea5e39d",
+    "url": "/summer2018/img/quacs_white.cc0bc9f8.svg"
+  },
+  {
+    "revision": "4fc10f2bd700dd3e2aebe4c1cc969780",
+    "url": "/summer2018/index.html"
+  },
+  {
+    "revision": "4953bb176da27e23da80",
+    "url": "/summer2018/js/app.18cab7ac.js"
+  },
+  {
+    "revision": "6f82e49d7767122e9e6b",
+    "url": "/summer2018/js/chunk-2d0b594d.eaa4c764.js"
+  },
+  {
+    "revision": "62aab94be934f3baf13a",
+    "url": "/summer2018/js/chunk-2d0db20a.2281db34.js"
+  },
+  {
+    "revision": "8b3e465bcef6c3de8890",
+    "url": "/summer2018/js/chunk-2d226013.116d5385.js"
+  },
+  {
+    "revision": "28d6a69a71c2715bbd2e",
+    "url": "/summer2018/js/chunk-2d229be5.1139eb2d.js"
+  },
+  {
+    "revision": "4b5cd938cb6f3593e6a9",
+    "url": "/summer2018/js/chunk-71a680ce.3736a7c9.js"
+  },
+  {
+    "revision": "930c18fd25d95bfa5a36",
+    "url": "/summer2018/js/chunk-9d6fb3ca.33e92b51.js"
+  },
+  {
+    "revision": "f728b8d25a2548801a0f",
+    "url": "/summer2018/js/chunk-vendors.8a92ab95.js"
+  },
+  {
+    "revision": "93b702478aef9bcd91184e1b555d7666",
+    "url": "/summer2018/manifest.json"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/summer2018/robots.txt"
+  },
+  {
+    "revision": "646d1a2df7c9d0acacc637ba8c5b96d6",
+    "url": "/summer2018/umami.js"
+  }
+]);
