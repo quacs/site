@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/summer2017/precache-manifest.58addd6dab9730c435dd5692711bfc49.js"
+  "/summer2017/precache-manifest.42360feeb94c0ed40d7832e48b0b687a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "QuACS"});
