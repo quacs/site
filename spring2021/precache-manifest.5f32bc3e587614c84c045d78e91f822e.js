@@ -1,0 +1,90 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "f89f4320c9fda40d3ee4bee1b656cf3c",
+    "url": "/spring2021/42e9b759292638ff3fbd.worker.js"
+  },
+  {
+    "revision": "bff0147e3c9fbea0dc8577919c7828ee",
+    "url": "/spring2021/chunk-cfd8699e.42e9b759292638ff3fbd.worker.js"
+  },
+  {
+    "revision": "c1fe250d09298e811c2e",
+    "url": "/spring2021/css/app.c27f05f7.css"
+  },
+  {
+    "revision": "1d9b5edc3643d5969614",
+    "url": "/spring2021/css/chunk-28df572a.a9c42d7c.css"
+  },
+  {
+    "revision": "36a0b942169688f383cd",
+    "url": "/spring2021/css/chunk-9d6fb3ca.27e1866e.css"
+  },
+  {
+    "revision": "60b2e7779801aab2e215",
+    "url": "/spring2021/css/chunk-vendors.42afba86.css"
+  },
+  {
+    "revision": "767a48f0ff5e53735106b149ce26a801",
+    "url": "/spring2021/docker-image.jpg"
+  },
+  {
+    "revision": "e1a92745986d33f784ab6d12d984988d",
+    "url": "/spring2021/e251a14d32fd160edd8e.module.wasm"
+  },
+  {
+    "revision": "0544db9197f51696206661b4dbc39cc5",
+    "url": "/spring2021/img/quacs_logo_white_duck.0544db91.svg"
+  },
+  {
+    "revision": "cc0bc9f846d116e97d03bf4eaea5e39d",
+    "url": "/spring2021/img/quacs_white.cc0bc9f8.svg"
+  },
+  {
+    "revision": "766418e7cf3f3cc54133b2501681cf44",
+    "url": "/spring2021/index.html"
+  },
+  {
+    "revision": "c1fe250d09298e811c2e",
+    "url": "/spring2021/js/app.614327cd.js"
+  },
+  {
+    "revision": "1d9b5edc3643d5969614",
+    "url": "/spring2021/js/chunk-28df572a.a9ac038e.js"
+  },
+  {
+    "revision": "dd8ce29a2ae307f9d853",
+    "url": "/spring2021/js/chunk-2d0a2d4b.e0171f96.js"
+  },
+  {
+    "revision": "474e29c729089d5f14ea",
+    "url": "/spring2021/js/chunk-2d0ced70.298e71b1.js"
+  },
+  {
+    "revision": "34279cd9d50a4665c79d",
+    "url": "/spring2021/js/chunk-2d0db20a.6829f76c.js"
+  },
+  {
+    "revision": "36139ede092809f2aa7a",
+    "url": "/spring2021/js/chunk-2d213509.ff115b67.js"
+  },
+  {
+    "revision": "36a0b942169688f383cd",
+    "url": "/spring2021/js/chunk-9d6fb3ca.fb204524.js"
+  },
+  {
+    "revision": "60b2e7779801aab2e215",
+    "url": "/spring2021/js/chunk-vendors.da396804.js"
+  },
+  {
+    "revision": "93b702478aef9bcd91184e1b555d7666",
+    "url": "/spring2021/manifest.json"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/spring2021/robots.txt"
+  },
+  {
+    "revision": "646d1a2df7c9d0acacc637ba8c5b96d6",
+    "url": "/spring2021/umami.js"
+  }
+]);
