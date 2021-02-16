@@ -1,0 +1,90 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "4f37e212e875485888f569b23c86ecf8",
+    "url": "/summer2013/05758b8aedd24d380d0d.worker.js"
+  },
+  {
+    "revision": "e9ea49069c4bf17376ee9ab706fadb8f",
+    "url": "/summer2013/33e25213a2a419abcc18.module.wasm"
+  },
+  {
+    "revision": "7723c05b714f683217f9a5f4b09c03de",
+    "url": "/summer2013/chunk-cfd8699e.05758b8aedd24d380d0d.worker.js"
+  },
+  {
+    "revision": "35ca92d4e5c162b844f0",
+    "url": "/summer2013/css/app.1ec3b58b.css"
+  },
+  {
+    "revision": "93072c4dfa56fb7c5309",
+    "url": "/summer2013/css/chunk-5a5b9097.27e1866e.css"
+  },
+  {
+    "revision": "891ce179b5956206c56d",
+    "url": "/summer2013/css/chunk-eb2013a0.377cc5d6.css"
+  },
+  {
+    "revision": "9ed016e0eea7ac057b94",
+    "url": "/summer2013/css/chunk-vendors.42afba86.css"
+  },
+  {
+    "revision": "767a48f0ff5e53735106b149ce26a801",
+    "url": "/summer2013/docker-image.jpg"
+  },
+  {
+    "revision": "0544db9197f51696206661b4dbc39cc5",
+    "url": "/summer2013/img/quacs_logo_white_duck.0544db91.svg"
+  },
+  {
+    "revision": "cc0bc9f846d116e97d03bf4eaea5e39d",
+    "url": "/summer2013/img/quacs_white.cc0bc9f8.svg"
+  },
+  {
+    "revision": "0d0509edae8f69a8d003cd7654415841",
+    "url": "/summer2013/index.html"
+  },
+  {
+    "revision": "35ca92d4e5c162b844f0",
+    "url": "/summer2013/js/app.e4ff6820.js"
+  },
+  {
+    "revision": "89fe723b0cd54577ef2b",
+    "url": "/summer2013/js/chunk-2d0b33c3.cece1bf6.js"
+  },
+  {
+    "revision": "c5418e6dd076be32f7af",
+    "url": "/summer2013/js/chunk-2d0db20a.b30d9651.js"
+  },
+  {
+    "revision": "2092c78f099cee99d788",
+    "url": "/summer2013/js/chunk-2d0e1c03.990fe50b.js"
+  },
+  {
+    "revision": "2da80830b31554cde7f2",
+    "url": "/summer2013/js/chunk-2d224933.17662f82.js"
+  },
+  {
+    "revision": "93072c4dfa56fb7c5309",
+    "url": "/summer2013/js/chunk-5a5b9097.45dcf987.js"
+  },
+  {
+    "revision": "891ce179b5956206c56d",
+    "url": "/summer2013/js/chunk-eb2013a0.ef56cdcf.js"
+  },
+  {
+    "revision": "9ed016e0eea7ac057b94",
+    "url": "/summer2013/js/chunk-vendors.be49749a.js"
+  },
+  {
+    "revision": "93b702478aef9bcd91184e1b555d7666",
+    "url": "/summer2013/manifest.json"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/summer2013/robots.txt"
+  },
+  {
+    "revision": "18568d0f73ab796241b55ae64b09faa0",
+    "url": "/summer2013/umami.js"
+  }
+]);
