@@ -1,0 +1,110 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "04806964e5d2ac18c458b949056aaae5",
+    "url": "/summer2020/8eef6d905d097773e87c.module.wasm"
+  },
+  {
+    "revision": "ee8da00bbafdb51d16597dd997f0605a",
+    "url": "/summer2020/chunk-cfd8699e.f687d4c3127df3fb4642.worker.js"
+  },
+  {
+    "revision": "b1cefe029d9e26d93b0a",
+    "url": "/summer2020/css/app.905bf084.css"
+  },
+  {
+    "revision": "9d1a8e9725e3a6f3cb24",
+    "url": "/summer2020/css/chunk-2f49949c.48c7c8a8.css"
+  },
+  {
+    "revision": "ea1e4b8411636f1702b5",
+    "url": "/summer2020/css/chunk-9d6fb3ca.27e1866e.css"
+  },
+  {
+    "revision": "64116e2d682fb7996153",
+    "url": "/summer2020/css/chunk-vendors.42afba86.css"
+  },
+  {
+    "revision": "767a48f0ff5e53735106b149ce26a801",
+    "url": "/summer2020/docker-image.jpg"
+  },
+  {
+    "revision": "629476044186008ae52ccb0b9ba6018f",
+    "url": "/summer2020/f687d4c3127df3fb4642.worker.js"
+  },
+  {
+    "revision": "7a627b96b09d93ae7ef10e72f209c27b",
+    "url": "/summer2020/img/academic_discord/desktop.png"
+  },
+  {
+    "revision": "54fd347fb67d94a9899b8571e2237490",
+    "url": "/summer2020/img/academic_discord/mobile.png"
+  },
+  {
+    "revision": "ef8b2918d75dbc6f8614066b84eb00ac",
+    "url": "/summer2020/img/academic_discord/tablet.png"
+  },
+  {
+    "revision": "68df788c10af916289eeffd42ffacb09",
+    "url": "/summer2020/img/cait_for_gm/desktop.png"
+  },
+  {
+    "revision": "90c573bd46194d587f66dc4227093a86",
+    "url": "/summer2020/img/cait_for_gm/mobile.png"
+  },
+  {
+    "revision": "5c17c931cf17dd7989eefdfc27483870",
+    "url": "/summer2020/img/cait_for_gm/tablet.png"
+  },
+  {
+    "revision": "0544db9197f51696206661b4dbc39cc5",
+    "url": "/summer2020/img/quacs_logo_white_duck.0544db91.svg"
+  },
+  {
+    "revision": "a12bfc55bdf84b70b00cf44abba313b8",
+    "url": "/summer2020/index.html"
+  },
+  {
+    "revision": "b1cefe029d9e26d93b0a",
+    "url": "/summer2020/js/app.178b7dbd.js"
+  },
+  {
+    "revision": "98321ecbe40792f0eb37",
+    "url": "/summer2020/js/chunk-2d0ae8fd.3d221549.js"
+  },
+  {
+    "revision": "1740bf5da28bb4d0e976",
+    "url": "/summer2020/js/chunk-2d0d5c89.6d8218a8.js"
+  },
+  {
+    "revision": "bc8d5a017971f3f42fb6",
+    "url": "/summer2020/js/chunk-2d0db20a.73db7eef.js"
+  },
+  {
+    "revision": "aa8f2341e7b83abdca3a",
+    "url": "/summer2020/js/chunk-2d2165c8.1d46ce30.js"
+  },
+  {
+    "revision": "9d1a8e9725e3a6f3cb24",
+    "url": "/summer2020/js/chunk-2f49949c.0ef396c2.js"
+  },
+  {
+    "revision": "ea1e4b8411636f1702b5",
+    "url": "/summer2020/js/chunk-9d6fb3ca.d475f7b5.js"
+  },
+  {
+    "revision": "64116e2d682fb7996153",
+    "url": "/summer2020/js/chunk-vendors.47674ab6.js"
+  },
+  {
+    "revision": "93b702478aef9bcd91184e1b555d7666",
+    "url": "/summer2020/manifest.json"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/summer2020/robots.txt"
+  },
+  {
+    "revision": "18568d0f73ab796241b55ae64b09faa0",
+    "url": "/summer2020/umami.js"
+  }
+]);
