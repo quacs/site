@@ -1,0 +1,122 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "1974a0bb36787b461193c7d47c61097d",
+    "url": "/summer2021/7c07fd8788ebcdcbf302.module.wasm"
+  },
+  {
+    "revision": "bfb8f561dcf796f0b694176f9fad9c18",
+    "url": "/summer2021/b268721ca6661172a28c.worker.js"
+  },
+  {
+    "revision": "ae793fb66d788415501be2281e0484c1",
+    "url": "/summer2021/chunk-cfd8699e.b268721ca6661172a28c.worker.js"
+  },
+  {
+    "revision": "b12b7d9921d5076c6e45",
+    "url": "/summer2021/css/app.1a2edd10.css"
+  },
+  {
+    "revision": "d4bcfdae01373b1cc0e6",
+    "url": "/summer2021/css/chunk-4369742c.5e5407ff.css"
+  },
+  {
+    "revision": "60f03438bf2f617f5dd1",
+    "url": "/summer2021/css/chunk-9d6fb3ca.27e1866e.css"
+  },
+  {
+    "revision": "d3a400bbd0a6c7055512",
+    "url": "/summer2021/css/chunk-vendors.42afba86.css"
+  },
+  {
+    "revision": "767a48f0ff5e53735106b149ce26a801",
+    "url": "/summer2021/docker-image.jpg"
+  },
+  {
+    "revision": "7a627b96b09d93ae7ef10e72f209c27b",
+    "url": "/summer2021/img/academic_discord/desktop.png"
+  },
+  {
+    "revision": "54fd347fb67d94a9899b8571e2237490",
+    "url": "/summer2021/img/academic_discord/mobile.png"
+  },
+  {
+    "revision": "ef8b2918d75dbc6f8614066b84eb00ac",
+    "url": "/summer2021/img/academic_discord/tablet.png"
+  },
+  {
+    "revision": "68df788c10af916289eeffd42ffacb09",
+    "url": "/summer2021/img/cait_for_gm/desktop.png"
+  },
+  {
+    "revision": "90c573bd46194d587f66dc4227093a86",
+    "url": "/summer2021/img/cait_for_gm/mobile.png"
+  },
+  {
+    "revision": "5c17c931cf17dd7989eefdfc27483870",
+    "url": "/summer2021/img/cait_for_gm/tablet.png"
+  },
+  {
+    "revision": "6ef046eb4956708d88ae55b9b4d76f17",
+    "url": "/summer2021/img/college_truckers/desktop.png"
+  },
+  {
+    "revision": "06bdbf53e9f87d7d80716fbb39db23d5",
+    "url": "/summer2021/img/college_truckers/mobile.png"
+  },
+  {
+    "revision": "1d6bf976e6f86f66ec71383e28b5923a",
+    "url": "/summer2021/img/college_truckers/tablet.png"
+  },
+  {
+    "revision": "0544db9197f51696206661b4dbc39cc5",
+    "url": "/summer2021/img/quacs_logo_white_duck.0544db91.svg"
+  },
+  {
+    "revision": "a4e8a186caf08f51a49865020d08cfa9",
+    "url": "/summer2021/index.html"
+  },
+  {
+    "revision": "b12b7d9921d5076c6e45",
+    "url": "/summer2021/js/app.9828db98.js"
+  },
+  {
+    "revision": "af734391f4deccb5ac4e",
+    "url": "/summer2021/js/chunk-2d0d744a.e736a88c.js"
+  },
+  {
+    "revision": "65391b42e6389e430b95",
+    "url": "/summer2021/js/chunk-2d0db20a.5a697842.js"
+  },
+  {
+    "revision": "8b3bff25a3a53ea2c0d9",
+    "url": "/summer2021/js/chunk-2d21aeb9.b7cb780a.js"
+  },
+  {
+    "revision": "cb3536ea6d807b005f98",
+    "url": "/summer2021/js/chunk-2d228901.a20822e7.js"
+  },
+  {
+    "revision": "d4bcfdae01373b1cc0e6",
+    "url": "/summer2021/js/chunk-4369742c.9b57df26.js"
+  },
+  {
+    "revision": "60f03438bf2f617f5dd1",
+    "url": "/summer2021/js/chunk-9d6fb3ca.313989ee.js"
+  },
+  {
+    "revision": "d3a400bbd0a6c7055512",
+    "url": "/summer2021/js/chunk-vendors.d9094e21.js"
+  },
+  {
+    "revision": "93b702478aef9bcd91184e1b555d7666",
+    "url": "/summer2021/manifest.json"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/summer2021/robots.txt"
+  },
+  {
+    "revision": "18568d0f73ab796241b55ae64b09faa0",
+    "url": "/summer2021/umami.js"
+  }
+]);
