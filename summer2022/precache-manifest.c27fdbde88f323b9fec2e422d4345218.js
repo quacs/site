@@ -1,0 +1,130 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "8bc02eb8da1a44f5e0b5ece27b4fe2da",
+    "url": "/summer2022/bc783be2c59f5c3154e3.module.wasm"
+  },
+  {
+    "revision": "6e7e590a4555a7e3d18254bea7933c08",
+    "url": "/summer2022/cd87c9a5da97f577f050.worker.js"
+  },
+  {
+    "revision": "07a8516e52c4939fbf39aaea0d3fff21",
+    "url": "/summer2022/chunk-cfd8699e.cd87c9a5da97f577f050.worker.js"
+  },
+  {
+    "revision": "eb173189dc70b0b0ab9a",
+    "url": "/summer2022/css/app.9054eee4.css"
+  },
+  {
+    "revision": "0d7ab54107ba4f9977bb",
+    "url": "/summer2022/css/chunk-4eefe71f.4e9a8257.css"
+  },
+  {
+    "revision": "e05168092c64071808de",
+    "url": "/summer2022/css/chunk-9d6fb3ca.27e1866e.css"
+  },
+  {
+    "revision": "6c35de297f68e6dd3149",
+    "url": "/summer2022/css/chunk-vendors.55204a1e.css"
+  },
+  {
+    "revision": "767a48f0ff5e53735106b149ce26a801",
+    "url": "/summer2022/docker-image.jpg"
+  },
+  {
+    "revision": "7a627b96b09d93ae7ef10e72f209c27b",
+    "url": "/summer2022/img/academic_discord/desktop.png"
+  },
+  {
+    "revision": "54fd347fb67d94a9899b8571e2237490",
+    "url": "/summer2022/img/academic_discord/mobile.png"
+  },
+  {
+    "revision": "ef8b2918d75dbc6f8614066b84eb00ac",
+    "url": "/summer2022/img/academic_discord/tablet.png"
+  },
+  {
+    "revision": "d661e2de3bafeea2b918ad8141a1eee5",
+    "url": "/summer2022/img/bunkabl/desktop.png"
+  },
+  {
+    "revision": "9f54731a89857f2b54b6426a15b02675",
+    "url": "/summer2022/img/bunkabl/mobile.png"
+  },
+  {
+    "revision": "f1c770c0d7dff331ff8f0a9d589b2296",
+    "url": "/summer2022/img/bunkabl/tablet.png"
+  },
+  {
+    "revision": "395e1533e3a2a3aa85431fe8b37ebe7a",
+    "url": "/summer2022/img/logos/quacs_logo.svg"
+  },
+  {
+    "revision": "69698ca89ce8d260f4ac0ae41add8260",
+    "url": "/summer2022/img/logos/quacs_logo_christmas.svg"
+  },
+  {
+    "revision": "ef608aaf90d1d47642d4ea247126dea7",
+    "url": "/summer2022/img/logos/quacs_logo_halloween.svg"
+  },
+  {
+    "revision": "c707d6e3c7a7dfee3bee4e467d500c5b",
+    "url": "/summer2022/img/logos/quacs_logo_thanksgiving.svg"
+  },
+  {
+    "revision": "05810198fb33f8ed3ce966ac63fefd9b",
+    "url": "/summer2022/img/logos/quacs_logo_white.svg"
+  },
+  {
+    "revision": "0544db9197f51696206661b4dbc39cc5",
+    "url": "/summer2022/img/logos/quacs_logo_white_duck.svg"
+  },
+  {
+    "revision": "3f8568ef51776488912c1578e0575285",
+    "url": "/summer2022/index.html"
+  },
+  {
+    "revision": "eb173189dc70b0b0ab9a",
+    "url": "/summer2022/js/app.d096b7d7.js"
+  },
+  {
+    "revision": "81ac8c5a7b633b8d46de",
+    "url": "/summer2022/js/chunk-2d0d65cf.17a73867.js"
+  },
+  {
+    "revision": "cdabdc4e8146b5876d88",
+    "url": "/summer2022/js/chunk-2d0db20a.6d84fa00.js"
+  },
+  {
+    "revision": "8ae6503223de2217b98e",
+    "url": "/summer2022/js/chunk-2d0dd0f8.c39f5da8.js"
+  },
+  {
+    "revision": "860ce1470515c3b9711d",
+    "url": "/summer2022/js/chunk-2d229095.a2901921.js"
+  },
+  {
+    "revision": "0d7ab54107ba4f9977bb",
+    "url": "/summer2022/js/chunk-4eefe71f.6b156417.js"
+  },
+  {
+    "revision": "e05168092c64071808de",
+    "url": "/summer2022/js/chunk-9d6fb3ca.1d4275e5.js"
+  },
+  {
+    "revision": "6c35de297f68e6dd3149",
+    "url": "/summer2022/js/chunk-vendors.b426f2b6.js"
+  },
+  {
+    "revision": "93b702478aef9bcd91184e1b555d7666",
+    "url": "/summer2022/manifest.json"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/summer2022/robots.txt"
+  },
+  {
+    "revision": "10527a8884d9b28857687ae3ed807fed",
+    "url": "/summer2022/umami.js"
+  }
+]);
