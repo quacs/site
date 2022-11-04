@@ -1,0 +1,2 @@
+(self["webpackJsonp"]=self["webpackJsonp"]||[]).push([["chunk-2d0ae8ef"],{"0b29":function(e){e.exports=JSON.parse('{"90016":{"restrictions":{"major":{"must_be":["Information Tech & Web Science"]}}},"90017":{},"90018":{},"90019":{"prerequisites":{"nested":[{"course":"MATH 1010","type":"course"},{"course":"MATH 1500","type":"course"}],"type":"and"}},"90020":{}}')}}]);
+//# sourceMappingURL=chunk-2d0ae8ef.01ce0973.js.map
