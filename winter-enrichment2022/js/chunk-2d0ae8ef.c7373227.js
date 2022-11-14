@@ -1,0 +1,2 @@
+(self["webpackJsonp"]=self["webpackJsonp"]||[]).push([["chunk-2d0ae8ef"],{"0b29":function(e){e.exports=JSON.parse('{"90016":{},"90017":{},"90018":{},"90019":{"prerequisites":{"nested":[{"course":"MATH 1010","type":"course"},{"course":"MATH 1500","type":"course"}],"type":"and"}},"90020":{},"90021":{},"90022":{},"90023":{"prerequisites":{"course":"LANG 1410","type":"course"}},"90024":{"prerequisites":{"nested":[{"course":"ECON 1200","type":"course"},{"course":"IHSS 1200","type":"course"}],"type":"or"}}}')}}]);
+//# sourceMappingURL=chunk-2d0ae8ef.c7373227.js.map
