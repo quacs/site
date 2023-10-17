@@ -1,0 +1,102 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "6c36e75e65e358fe7f8405cee1651270",
+    "url": "/spring2013/08e3992a4ee04f87ad12.module.wasm"
+  },
+  {
+    "revision": "4d2370a995b52de628269dbb24ce264c",
+    "url": "/spring2013/b1635a93947f65e36ac2.worker.js"
+  },
+  {
+    "revision": "63e2669231ec18d5349c70c6bf7505e9",
+    "url": "/spring2013/chunk-cfd8699e.b1635a93947f65e36ac2.worker.js"
+  },
+  {
+    "revision": "41f667788e42f9b77d20",
+    "url": "/spring2013/css/app.424e2afe.css"
+  },
+  {
+    "revision": "398922971b84834d1c26",
+    "url": "/spring2013/css/chunk-5a5b9097.27e1866e.css"
+  },
+  {
+    "revision": "095fc84a668841c1ca4b",
+    "url": "/spring2013/css/chunk-780261d8.1995ff6a.css"
+  },
+  {
+    "revision": "c726591fa17c38ea07c7",
+    "url": "/spring2013/css/chunk-vendors.55204a1e.css"
+  },
+  {
+    "revision": "767a48f0ff5e53735106b149ce26a801",
+    "url": "/spring2013/docker-image.jpg"
+  },
+  {
+    "revision": "395e1533e3a2a3aa85431fe8b37ebe7a",
+    "url": "/spring2013/img/logos/quacs_logo.svg"
+  },
+  {
+    "revision": "69698ca89ce8d260f4ac0ae41add8260",
+    "url": "/spring2013/img/logos/quacs_logo_christmas.svg"
+  },
+  {
+    "revision": "ef608aaf90d1d47642d4ea247126dea7",
+    "url": "/spring2013/img/logos/quacs_logo_halloween.svg"
+  },
+  {
+    "revision": "c707d6e3c7a7dfee3bee4e467d500c5b",
+    "url": "/spring2013/img/logos/quacs_logo_thanksgiving.svg"
+  },
+  {
+    "revision": "05810198fb33f8ed3ce966ac63fefd9b",
+    "url": "/spring2013/img/logos/quacs_logo_white.svg"
+  },
+  {
+    "revision": "0544db9197f51696206661b4dbc39cc5",
+    "url": "/spring2013/img/logos/quacs_logo_white_duck.svg"
+  },
+  {
+    "revision": "a61064b8cf405789826e54ad0ca5b1b2",
+    "url": "/spring2013/index.html"
+  },
+  {
+    "revision": "41f667788e42f9b77d20",
+    "url": "/spring2013/js/app.939b206c.js"
+  },
+  {
+    "revision": "bb8ac1b19c5ec96b8691",
+    "url": "/spring2013/js/chunk-2d0b3080.8e5f3e50.js"
+  },
+  {
+    "revision": "1c9947aae3d929ab0fa8",
+    "url": "/spring2013/js/chunk-2d0cca72.b3ac4d5e.js"
+  },
+  {
+    "revision": "cdabdc4e8146b5876d88",
+    "url": "/spring2013/js/chunk-2d0db20a.6d84fa00.js"
+  },
+  {
+    "revision": "2429459e40eec6f5554d",
+    "url": "/spring2013/js/chunk-2d208459.04c7324e.js"
+  },
+  {
+    "revision": "398922971b84834d1c26",
+    "url": "/spring2013/js/chunk-5a5b9097.e78ef84d.js"
+  },
+  {
+    "revision": "095fc84a668841c1ca4b",
+    "url": "/spring2013/js/chunk-780261d8.ab11cdb9.js"
+  },
+  {
+    "revision": "c726591fa17c38ea07c7",
+    "url": "/spring2013/js/chunk-vendors.7779ebe6.js"
+  },
+  {
+    "revision": "93b702478aef9bcd91184e1b555d7666",
+    "url": "/spring2013/manifest.json"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/spring2013/robots.txt"
+  }
+]);
