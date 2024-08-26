@@ -1,0 +1,102 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "16f977e437e2a849460b773b0eea0545",
+    "url": "/fall2024/0489ddd7607bd13c94cf.module.wasm"
+  },
+  {
+    "revision": "8fe56d9bef8b2346eca6fdbdf4b8a660",
+    "url": "/fall2024/c3b7d61987ec087e0df0.worker.js"
+  },
+  {
+    "revision": "3566a148d56f78595972819ecc612c97",
+    "url": "/fall2024/chunk-cfd8699e.c3b7d61987ec087e0df0.worker.js"
+  },
+  {
+    "revision": "4d38ef193745690c4aa0",
+    "url": "/fall2024/css/app.424e2afe.css"
+  },
+  {
+    "revision": "398922971b84834d1c26",
+    "url": "/fall2024/css/chunk-5a5b9097.27e1866e.css"
+  },
+  {
+    "revision": "1fb87efc9e4c5ceabe1e",
+    "url": "/fall2024/css/chunk-780261d8.1995ff6a.css"
+  },
+  {
+    "revision": "42d020ee7d5236027029",
+    "url": "/fall2024/css/chunk-vendors.55204a1e.css"
+  },
+  {
+    "revision": "767a48f0ff5e53735106b149ce26a801",
+    "url": "/fall2024/docker-image.jpg"
+  },
+  {
+    "revision": "395e1533e3a2a3aa85431fe8b37ebe7a",
+    "url": "/fall2024/img/logos/quacs_logo.svg"
+  },
+  {
+    "revision": "69698ca89ce8d260f4ac0ae41add8260",
+    "url": "/fall2024/img/logos/quacs_logo_christmas.svg"
+  },
+  {
+    "revision": "ef608aaf90d1d47642d4ea247126dea7",
+    "url": "/fall2024/img/logos/quacs_logo_halloween.svg"
+  },
+  {
+    "revision": "c707d6e3c7a7dfee3bee4e467d500c5b",
+    "url": "/fall2024/img/logos/quacs_logo_thanksgiving.svg"
+  },
+  {
+    "revision": "05810198fb33f8ed3ce966ac63fefd9b",
+    "url": "/fall2024/img/logos/quacs_logo_white.svg"
+  },
+  {
+    "revision": "0544db9197f51696206661b4dbc39cc5",
+    "url": "/fall2024/img/logos/quacs_logo_white_duck.svg"
+  },
+  {
+    "revision": "f010f681193094826b21eff4bf7588ea",
+    "url": "/fall2024/index.html"
+  },
+  {
+    "revision": "4d38ef193745690c4aa0",
+    "url": "/fall2024/js/app.9a169070.js"
+  },
+  {
+    "revision": "27ffbc8f6eac820446d3",
+    "url": "/fall2024/js/chunk-2d0c73de.6960787c.js"
+  },
+  {
+    "revision": "ef403486675ff154dc9f",
+    "url": "/fall2024/js/chunk-2d0d3a4b.e9682a06.js"
+  },
+  {
+    "revision": "cdabdc4e8146b5876d88",
+    "url": "/fall2024/js/chunk-2d0db20a.6d84fa00.js"
+  },
+  {
+    "revision": "211af724011444509a90",
+    "url": "/fall2024/js/chunk-2d0decf4.8599a2fd.js"
+  },
+  {
+    "revision": "398922971b84834d1c26",
+    "url": "/fall2024/js/chunk-5a5b9097.e78ef84d.js"
+  },
+  {
+    "revision": "1fb87efc9e4c5ceabe1e",
+    "url": "/fall2024/js/chunk-780261d8.277f4d85.js"
+  },
+  {
+    "revision": "42d020ee7d5236027029",
+    "url": "/fall2024/js/chunk-vendors.061d9848.js"
+  },
+  {
+    "revision": "93b702478aef9bcd91184e1b555d7666",
+    "url": "/fall2024/manifest.json"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/fall2024/robots.txt"
+  }
+]);
