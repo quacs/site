@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/summer2026/chunk-cfd8699e.2c143dc1cfe45c1c4ee9.worker.js"
   },
   {
-    "revision": "898c35627e3da73be41a",
+    "revision": "bb65555c87768ca33fe5",
     "url": "/summer2026/css/app.424e2afe.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/summer2026/css/chunk-5a5b9097.27e1866e.css"
   },
   {
-    "revision": "5e86c404d9ae46e1374e",
+    "revision": "3bb3c286e666b8cdfd67",
     "url": "/summer2026/css/chunk-vendors.55204a1e.css"
   },
   {
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/summer2026/img/logos/quacs_logo_white_duck.svg"
   },
   {
-    "revision": "c4d47c598860c1b3b597bd03b4551e68",
+    "revision": "87af3cd685d4337ae6c955ef42b70ca4",
     "url": "/summer2026/index.html"
   },
   {
-    "revision": "898c35627e3da73be41a",
-    "url": "/summer2026/js/app.072cc7c5.js"
+    "revision": "bb65555c87768ca33fe5",
+    "url": "/summer2026/js/app.b598282b.js"
   },
   {
     "revision": "f7d2e52eaed47b16430f",
@@ -80,16 +80,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/summer2026/js/chunk-2d0e4c9f.4a997afb.js"
   },
   {
-    "revision": "b4aef9e00cda18897d4c",
-    "url": "/summer2026/js/chunk-2d2174e8.ea6b1493.js"
+    "revision": "8ef68387b4292c54f757",
+    "url": "/summer2026/js/chunk-2d2174e8.b09d8750.js"
   },
   {
     "revision": "398922971b84834d1c26",
     "url": "/summer2026/js/chunk-5a5b9097.e78ef84d.js"
   },
   {
-    "revision": "5e86c404d9ae46e1374e",
-    "url": "/summer2026/js/chunk-vendors.ecc9563f.js"
+    "revision": "3bb3c286e666b8cdfd67",
+    "url": "/summer2026/js/chunk-vendors.5f4386b3.js"
   },
   {
     "revision": "93b702478aef9bcd91184e1b555d7666",
