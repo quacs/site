@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fall2026/chunk-cfd8699e.bc7a4a9459348fea9397.worker.js"
   },
   {
-    "revision": "2e0eadb9d975c7518dd0",
+    "revision": "40b8d77c87b135ea4409",
     "url": "/fall2026/css/app.424e2afe.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fall2026/css/chunk-5a5b9097.27e1866e.css"
   },
   {
-    "revision": "7fa9eee13835c9f3413d",
+    "revision": "dea9b1bb32792c2f9f7d",
     "url": "/fall2026/css/chunk-vendors.55204a1e.css"
   },
   {
@@ -56,20 +56,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fall2026/img/logos/quacs_logo_white_duck.svg"
   },
   {
-    "revision": "59368d81bc90ac70bd8164df5c7deb7a",
+    "revision": "029b18161e9937dec6bb2710b4e496bb",
     "url": "/fall2026/index.html"
   },
   {
-    "revision": "2e0eadb9d975c7518dd0",
-    "url": "/fall2026/js/app.b3712fcb.js"
+    "revision": "40b8d77c87b135ea4409",
+    "url": "/fall2026/js/app.9837d64e.js"
   },
   {
     "revision": "c092f0538274763bfb57",
     "url": "/fall2026/js/chunk-096b44d2.ad24e5cd.js"
   },
   {
-    "revision": "6ecefa9069d47bc65c49",
-    "url": "/fall2026/js/chunk-2d0b2328.fb0cc7e9.js"
+    "revision": "c4dcc7112f30ad2dd14e",
+    "url": "/fall2026/js/chunk-2d0b2328.6a4d7288.js"
   },
   {
     "revision": "cdabdc4e8146b5876d88",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fall2026/js/chunk-5a5b9097.e78ef84d.js"
   },
   {
-    "revision": "7fa9eee13835c9f3413d",
-    "url": "/fall2026/js/chunk-vendors.c535d867.js"
+    "revision": "dea9b1bb32792c2f9f7d",
+    "url": "/fall2026/js/chunk-vendors.7c796c62.js"
   },
   {
     "revision": "93b702478aef9bcd91184e1b555d7666",
