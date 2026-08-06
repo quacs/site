@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fall2026/chunk-cfd8699e.7ce62b5f7cd0e7d52f50.worker.js"
   },
   {
-    "revision": "8843c45e2aed1c0bacd2",
+    "revision": "54625d40968a0567ab64",
     "url": "/fall2026/css/app.424e2afe.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fall2026/css/chunk-5a5b9097.27e1866e.css"
   },
   {
-    "revision": "c1d7acffa59e941df9ef",
+    "revision": "cd9d87a4abc96436696b",
     "url": "/fall2026/css/chunk-vendors.55204a1e.css"
   },
   {
@@ -56,20 +56,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fall2026/img/logos/quacs_logo_white_duck.svg"
   },
   {
-    "revision": "c5b09df4b6ea0454f70a16e9552ca7f0",
+    "revision": "19fe7b616bac71654c05362343ff49ad",
     "url": "/fall2026/index.html"
   },
   {
-    "revision": "8843c45e2aed1c0bacd2",
-    "url": "/fall2026/js/app.3f2a5a60.js"
+    "revision": "54625d40968a0567ab64",
+    "url": "/fall2026/js/app.aa2d8661.js"
   },
   {
     "revision": "c092f0538274763bfb57",
     "url": "/fall2026/js/chunk-096b44d2.ad24e5cd.js"
   },
   {
-    "revision": "4ed375987eb8890f8468",
-    "url": "/fall2026/js/chunk-2d0b2328.65460a3c.js"
+    "revision": "d76a5c0394ccdc1c5594",
+    "url": "/fall2026/js/chunk-2d0b2328.e0dc2057.js"
   },
   {
     "revision": "cdabdc4e8146b5876d88",
@@ -80,16 +80,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fall2026/js/chunk-2d208ff9.b80add4b.js"
   },
   {
-    "revision": "e5a8a119b152445ec3f6",
-    "url": "/fall2026/js/chunk-2d22c8f3.342dc5a6.js"
+    "revision": "6d6934e8b8174bdb8106",
+    "url": "/fall2026/js/chunk-2d22c8f3.83a6b17d.js"
   },
   {
     "revision": "398922971b84834d1c26",
     "url": "/fall2026/js/chunk-5a5b9097.e78ef84d.js"
   },
   {
-    "revision": "c1d7acffa59e941df9ef",
-    "url": "/fall2026/js/chunk-vendors.1cfc2cdc.js"
+    "revision": "cd9d87a4abc96436696b",
+    "url": "/fall2026/js/chunk-vendors.349f8ab4.js"
   },
   {
     "revision": "93b702478aef9bcd91184e1b555d7666",
