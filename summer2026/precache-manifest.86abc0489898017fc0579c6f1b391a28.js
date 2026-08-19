@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/summer2026/chunk-cfd8699e.2c143dc1cfe45c1c4ee9.worker.js"
   },
   {
-    "revision": "f155e6ebb715288b11d0",
+    "revision": "d6f72205971b4a3467ba",
     "url": "/summer2026/css/app.424e2afe.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/summer2026/css/chunk-5a5b9097.27e1866e.css"
   },
   {
-    "revision": "894b64063de95b0517f1",
+    "revision": "1c829036203ea9e614f0",
     "url": "/summer2026/css/chunk-vendors.55204a1e.css"
   },
   {
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/summer2026/img/logos/quacs_logo_white_duck.svg"
   },
   {
-    "revision": "a2b001a9003aea81b2109ba86123b63a",
+    "revision": "83469d46824e41e039499d13b46cee43",
     "url": "/summer2026/index.html"
   },
   {
-    "revision": "f155e6ebb715288b11d0",
-    "url": "/summer2026/js/app.2fb7054c.js"
+    "revision": "d6f72205971b4a3467ba",
+    "url": "/summer2026/js/app.76e13239.js"
   },
   {
     "revision": "f7d2e52eaed47b16430f",
@@ -76,20 +76,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/summer2026/js/chunk-2d0db20a.6d84fa00.js"
   },
   {
-    "revision": "8242982a489013954f6d",
-    "url": "/summer2026/js/chunk-2d0e4c9f.4a997afb.js"
+    "revision": "06962893a987e92899dc",
+    "url": "/summer2026/js/chunk-2d0e4c9f.d154fecb.js"
   },
   {
-    "revision": "ad512a3b7aa818d07a22",
-    "url": "/summer2026/js/chunk-2d2174e8.dc69d091.js"
+    "revision": "ab8341ded15a38c564a0",
+    "url": "/summer2026/js/chunk-2d2174e8.1869249a.js"
   },
   {
     "revision": "398922971b84834d1c26",
     "url": "/summer2026/js/chunk-5a5b9097.e78ef84d.js"
   },
   {
-    "revision": "894b64063de95b0517f1",
-    "url": "/summer2026/js/chunk-vendors.66a73227.js"
+    "revision": "1c829036203ea9e614f0",
+    "url": "/summer2026/js/chunk-vendors.abf65e3f.js"
   },
   {
     "revision": "93b702478aef9bcd91184e1b555d7666",
