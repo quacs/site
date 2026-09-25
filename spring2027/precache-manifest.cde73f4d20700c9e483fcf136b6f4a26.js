@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/chunk-cfd8699e.b73f5f677a57d3bfd6bb.worker.js"
   },
   {
-    "revision": "7ebfdfeff6b1fbf73f34",
+    "revision": "0872876a42db9cd55049",
     "url": "/spring2027/css/app.424e2afe.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/css/chunk-5a5b9097.27e1866e.css"
   },
   {
-    "revision": "a685594eb26539ac92db",
+    "revision": "1dd3aff62bd1b880056f",
     "url": "/spring2027/css/chunk-vendors.55204a1e.css"
   },
   {
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/img/logos/quacs_logo_white_duck.svg"
   },
   {
-    "revision": "88bf432db453c54e7d6af8bf28768c4d",
+    "revision": "7a3eb6ff59742d23163ae7f9b076f8c7",
     "url": "/spring2027/index.html"
   },
   {
-    "revision": "7ebfdfeff6b1fbf73f34",
-    "url": "/spring2027/js/app.e945b614.js"
+    "revision": "0872876a42db9cd55049",
+    "url": "/spring2027/js/app.5088f6c9.js"
   },
   {
     "revision": "034042218ecf296d2a0d",
@@ -72,24 +72,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/js/chunk-2d0abdea.8a7fa22a.js"
   },
   {
-    "revision": "54e024f6945ff4c52220",
-    "url": "/spring2027/js/chunk-2d0b5e12.5bb9abcd.js"
+    "revision": "69b90679b6ee15b870e4",
+    "url": "/spring2027/js/chunk-2d0b5e12.88002b95.js"
   },
   {
     "revision": "cdabdc4e8146b5876d88",
     "url": "/spring2027/js/chunk-2d0db20a.6d84fa00.js"
   },
   {
-    "revision": "aedc3ac18f3598a0e7b0",
-    "url": "/spring2027/js/chunk-2d0e95c0.c81de9c1.js"
+    "revision": "e9a0d69219d813854401",
+    "url": "/spring2027/js/chunk-2d0e95c0.6dd749f4.js"
   },
   {
     "revision": "398922971b84834d1c26",
     "url": "/spring2027/js/chunk-5a5b9097.e78ef84d.js"
   },
   {
-    "revision": "a685594eb26539ac92db",
-    "url": "/spring2027/js/chunk-vendors.aaa60cca.js"
+    "revision": "1dd3aff62bd1b880056f",
+    "url": "/spring2027/js/chunk-vendors.9ddacd4a.js"
   },
   {
     "revision": "93b702478aef9bcd91184e1b555d7666",
