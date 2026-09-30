@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4435e0150a365d35fbbbd3bf5855743f",
-    "url": "/spring2027/814de63c80abcdb4e89b.module.wasm"
+    "revision": "c9972699e8cf52063ea63f95ccc85779",
+    "url": "/spring2027/68348fff640633af9592.module.wasm"
   },
   {
-    "revision": "6b6c47394e6674f93174649605bf9679",
-    "url": "/spring2027/chunk-cfd8699e.fad34696269902c55738.worker.js"
+    "revision": "6b5a2030a4fc1a244e6285b768f0c1a0",
+    "url": "/spring2027/chunk-cfd8699e.e4dfd1764664bb51851b.worker.js"
   },
   {
-    "revision": "ce59c2b9ee80981d15fc",
+    "revision": "56925d389076914e1866",
     "url": "/spring2027/css/app.424e2afe.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/css/chunk-5a5b9097.27e1866e.css"
   },
   {
-    "revision": "682ed77d7e1d7efae4fd",
+    "revision": "c1c4798610c28b031e5a",
     "url": "/spring2027/css/chunk-vendors.55204a1e.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/docker-image.jpg"
   },
   {
-    "revision": "9efb43ad8a987b9fe4c59927d58e4461",
-    "url": "/spring2027/fad34696269902c55738.worker.js"
+    "revision": "6b6b94d86265d22a7dc84a8aec0193b3",
+    "url": "/spring2027/e4dfd1764664bb51851b.worker.js"
   },
   {
     "revision": "395e1533e3a2a3aa85431fe8b37ebe7a",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/img/logos/quacs_logo_white_duck.svg"
   },
   {
-    "revision": "01fd1187c65f4c31bacfee850c4b8ade",
+    "revision": "aa1423c659793b1a26e6607bb4d41e4f",
     "url": "/spring2027/index.html"
   },
   {
-    "revision": "ce59c2b9ee80981d15fc",
-    "url": "/spring2027/js/app.a21dc697.js"
+    "revision": "56925d389076914e1866",
+    "url": "/spring2027/js/app.e4cab93f.js"
   },
   {
     "revision": "034042218ecf296d2a0d",
@@ -72,24 +72,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/js/chunk-2d0abdea.8a7fa22a.js"
   },
   {
-    "revision": "0d8045c6d15bc0118200",
-    "url": "/spring2027/js/chunk-2d0b5e12.e3d79a51.js"
+    "revision": "7b54938c33f303e90a21",
+    "url": "/spring2027/js/chunk-2d0b5e12.8c4dcbe0.js"
   },
   {
     "revision": "cdabdc4e8146b5876d88",
     "url": "/spring2027/js/chunk-2d0db20a.6d84fa00.js"
   },
   {
-    "revision": "75fc399d8b74c58f23be",
-    "url": "/spring2027/js/chunk-2d0e95c0.d509db40.js"
+    "revision": "98d4bd9d94c561d5483c",
+    "url": "/spring2027/js/chunk-2d0e95c0.ed9a1b07.js"
   },
   {
     "revision": "398922971b84834d1c26",
     "url": "/spring2027/js/chunk-5a5b9097.e78ef84d.js"
   },
   {
-    "revision": "682ed77d7e1d7efae4fd",
-    "url": "/spring2027/js/chunk-vendors.9194a5a2.js"
+    "revision": "c1c4798610c28b031e5a",
+    "url": "/spring2027/js/chunk-vendors.1bda2dc1.js"
   },
   {
     "revision": "93b702478aef9bcd91184e1b555d7666",
