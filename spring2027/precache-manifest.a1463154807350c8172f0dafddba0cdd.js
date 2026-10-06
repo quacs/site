@@ -1,18 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af379a0598070125bc75c2c80225966a",
-    "url": "/spring2027/45acca3a4566dccc0c9e.module.wasm"
+    "revision": "cbf2e3d7102f6ca04cc08edcdda71482",
+    "url": "/spring2027/45bd0b7c739260c7ee8a.module.wasm"
   },
   {
-    "revision": "ed2a362aa8b83e287f77e4ebe529bb0d",
-    "url": "/spring2027/ae9a908cd107de1104d9.worker.js"
+    "revision": "34ab49ed180412abaf7e1dba543a7033",
+    "url": "/spring2027/chunk-cfd8699e.de89f86a6187fab2bc1d.worker.js"
   },
   {
-    "revision": "a8b0ecfc9f2506324332bb49a572a3e4",
-    "url": "/spring2027/chunk-cfd8699e.ae9a908cd107de1104d9.worker.js"
-  },
-  {
-    "revision": "63dc9852b12ffa90f68d",
+    "revision": "86f73e6152421acf1486",
     "url": "/spring2027/css/app.424e2afe.css"
   },
   {
@@ -24,8 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/css/chunk-5a5b9097.27e1866e.css"
   },
   {
-    "revision": "6f8fb6e71d30d0c6e233",
+    "revision": "e64f2d03dde95ca922f7",
     "url": "/spring2027/css/chunk-vendors.55204a1e.css"
+  },
+  {
+    "revision": "514f7fdf7f1daef2658197baf479cee2",
+    "url": "/spring2027/de89f86a6187fab2bc1d.worker.js"
   },
   {
     "revision": "767a48f0ff5e53735106b149ce26a801",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/img/logos/quacs_logo_white_duck.svg"
   },
   {
-    "revision": "b4dc2d830246e941772a73edf3d432d1",
+    "revision": "b5b1952e131def7ea2c3b423f3325924",
     "url": "/spring2027/index.html"
   },
   {
-    "revision": "63dc9852b12ffa90f68d",
-    "url": "/spring2027/js/app.5b5cce68.js"
+    "revision": "86f73e6152421acf1486",
+    "url": "/spring2027/js/app.2d4cb550.js"
   },
   {
     "revision": "034042218ecf296d2a0d",
@@ -72,24 +72,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/js/chunk-2d0abdea.8a7fa22a.js"
   },
   {
-    "revision": "03530c6b89177e019717",
-    "url": "/spring2027/js/chunk-2d0b5e12.cb2c5c1e.js"
+    "revision": "42b2ab7d990a782092ff",
+    "url": "/spring2027/js/chunk-2d0b5e12.82ad1622.js"
   },
   {
     "revision": "cdabdc4e8146b5876d88",
     "url": "/spring2027/js/chunk-2d0db20a.6d84fa00.js"
   },
   {
-    "revision": "28b632ed3036b65f8ab7",
-    "url": "/spring2027/js/chunk-2d0e95c0.ab71f11e.js"
+    "revision": "2a5097e53b7d391ad87f",
+    "url": "/spring2027/js/chunk-2d0e95c0.a4e4d105.js"
   },
   {
     "revision": "398922971b84834d1c26",
     "url": "/spring2027/js/chunk-5a5b9097.e78ef84d.js"
   },
   {
-    "revision": "6f8fb6e71d30d0c6e233",
-    "url": "/spring2027/js/chunk-vendors.5b8764cf.js"
+    "revision": "e64f2d03dde95ca922f7",
+    "url": "/spring2027/js/chunk-vendors.acf7d606.js"
   },
   {
     "revision": "93b702478aef9bcd91184e1b555d7666",
