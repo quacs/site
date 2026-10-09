@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/chunk-cfd8699e.e1dfcc9db973e1db2e12.worker.js"
   },
   {
-    "revision": "a6337207b0cc80484427",
+    "revision": "0af7da08b0abeee6b31e",
     "url": "/spring2027/css/app.2ad35539.css"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/css/chunk-5a5b9097.27e1866e.css"
   },
   {
-    "revision": "83c2b62c23952c144907",
+    "revision": "b0a364a5fca8f98ea25f",
     "url": "/spring2027/css/chunk-vendors.55204a1e.css"
   },
   {
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/img/logos/quacs_logo_white_duck.svg"
   },
   {
-    "revision": "9ae3939faff93cc5174e8e940f8976b3",
+    "revision": "2d17e88eac37d384bdf9f1d21deeddce",
     "url": "/spring2027/index.html"
   },
   {
-    "revision": "a6337207b0cc80484427",
-    "url": "/spring2027/js/app.b8d68cbc.js"
+    "revision": "0af7da08b0abeee6b31e",
+    "url": "/spring2027/js/app.ace312c1.js"
   },
   {
     "revision": "57639d76bdeaa18c3d37",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/js/chunk-2d0abdea.da8ddc25.js"
   },
   {
-    "revision": "bb8a76e24b8df3cbb546",
-    "url": "/spring2027/js/chunk-2d0b5e12.ff524790.js"
+    "revision": "bb98daa9207d2de66bcf",
+    "url": "/spring2027/js/chunk-2d0b5e12.92ec35a6.js"
   },
   {
     "revision": "26ed0d75f3dfa9dc8892",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/js/chunk-5a5b9097.8802f80c.js"
   },
   {
-    "revision": "83c2b62c23952c144907",
-    "url": "/spring2027/js/chunk-vendors.44b86a3c.js"
+    "revision": "b0a364a5fca8f98ea25f",
+    "url": "/spring2027/js/chunk-vendors.bb623798.js"
   },
   {
     "revision": "93b702478aef9bcd91184e1b555d7666",
