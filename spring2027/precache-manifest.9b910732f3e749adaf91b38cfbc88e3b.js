@@ -1,14 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5230091541fa159d6d241f1004578f2f",
-    "url": "/spring2027/342a4cb83c1d6216ebe5.worker.js"
+    "revision": "9dfe48e6c3a9dcdb090a9d4d9e69b6b4",
+    "url": "/spring2027/chunk-cfd8699e.e1dfcc9db973e1db2e12.worker.js"
   },
   {
-    "revision": "6008aa0e62f22e753231f7073f10db3f",
-    "url": "/spring2027/chunk-cfd8699e.342a4cb83c1d6216ebe5.worker.js"
-  },
-  {
-    "revision": "6b405e93896d99f1ee25",
+    "revision": "a6337207b0cc80484427",
     "url": "/spring2027/css/app.2ad35539.css"
   },
   {
@@ -20,16 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/css/chunk-5a5b9097.27e1866e.css"
   },
   {
-    "revision": "8dbde66c8c623bd9661c",
+    "revision": "83c2b62c23952c144907",
     "url": "/spring2027/css/chunk-vendors.55204a1e.css"
-  },
-  {
-    "revision": "d34eca7891522f67efdfb8bf30e2f61d",
-    "url": "/spring2027/d0bd92f8ba382f034956.module.wasm"
   },
   {
     "revision": "767a48f0ff5e53735106b149ce26a801",
     "url": "/spring2027/docker-image.jpg"
+  },
+  {
+    "revision": "4f6725528cb004dffd29eb8281faf2fb",
+    "url": "/spring2027/e1dfcc9db973e1db2e12.worker.js"
+  },
+  {
+    "revision": "8561ff2f947c5b8e5cc2d4e8e04ab97b",
+    "url": "/spring2027/e52f384218a3075361cb.module.wasm"
   },
   {
     "revision": "395e1533e3a2a3aa85431fe8b37ebe7a",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/img/logos/quacs_logo_white_duck.svg"
   },
   {
-    "revision": "b95e2e53e8734ea0e292939d1ed0c17e",
+    "revision": "9ae3939faff93cc5174e8e940f8976b3",
     "url": "/spring2027/index.html"
   },
   {
-    "revision": "6b405e93896d99f1ee25",
-    "url": "/spring2027/js/app.51ce3d20.js"
+    "revision": "a6337207b0cc80484427",
+    "url": "/spring2027/js/app.b8d68cbc.js"
   },
   {
     "revision": "57639d76bdeaa18c3d37",
@@ -72,24 +72,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring2027/js/chunk-2d0abdea.da8ddc25.js"
   },
   {
-    "revision": "e651ef833a9a898d8965",
-    "url": "/spring2027/js/chunk-2d0b5e12.5e714eba.js"
+    "revision": "bb8a76e24b8df3cbb546",
+    "url": "/spring2027/js/chunk-2d0b5e12.ff524790.js"
   },
   {
     "revision": "26ed0d75f3dfa9dc8892",
     "url": "/spring2027/js/chunk-2d0db20a.15e91c81.js"
   },
   {
-    "revision": "004f3f42af8554a895bb",
-    "url": "/spring2027/js/chunk-2d0e95c0.aff32e16.js"
+    "revision": "4961be6e1065764fa19c",
+    "url": "/spring2027/js/chunk-2d0e95c0.e299c695.js"
   },
   {
     "revision": "d43683fa0fcc7f7c832e",
     "url": "/spring2027/js/chunk-5a5b9097.8802f80c.js"
   },
   {
-    "revision": "8dbde66c8c623bd9661c",
-    "url": "/spring2027/js/chunk-vendors.b26991e4.js"
+    "revision": "83c2b62c23952c144907",
+    "url": "/spring2027/js/chunk-vendors.44b86a3c.js"
   },
   {
     "revision": "93b702478aef9bcd91184e1b555d7666",
