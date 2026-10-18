@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/winter-enrichment2022/precache-manifest.3a54c831fdb5dce10567d30292fee3b2.js"
+  "/winter-enrichment2022/precache-manifest.d56384f6c58871b565bd9d3e3d71cfa7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "QuACS"});
